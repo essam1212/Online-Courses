@@ -98,4 +98,4 @@ A detailed table providing filtered insights based on selections from previous p
 
 ## 🔗 Repository Overview
 This repository includes screenshots and reports of the **Online Courses Dashboard** created in Power BI.  
-> *(Data used is simulated and intended for educational purposes only.)*
+
