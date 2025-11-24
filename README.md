@@ -5,7 +5,17 @@ This project presents an **interactive data analysis dashboard** built using **M
 The dashboard delivers **actionable insights** into subscriber behavior, content value perception, and subject popularity — helping to guide strategic decisions in **content creation and pricing**.
 
 ---
+## 🖥️ Dashboard Preview
 
+### **Dashboard**
+
+![Overview](Overview.png)
+
+![Overview2](Overview2.png)
+![price_Analysis](price_Analysis.png)
+![Courses_Details](Courses_Details.png)
+
+------------------
 ## ✨ Project Structure & Key Analysis
 
 The dashboard is structured into **three main analytical pages**:
